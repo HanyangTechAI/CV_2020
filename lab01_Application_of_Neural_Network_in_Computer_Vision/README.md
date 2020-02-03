@@ -1,4 +1,4 @@
-# LAB 02
+# LAB 01
 > Application of Neural Networks in Computer Vision 컴퓨터 비젼에서의 신경망
 
 1. Introduction to ML with Basic CV
