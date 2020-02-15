@@ -8,7 +8,7 @@
 ## 2회차
 **시간** : (2020.03.19) 19:00 - 20:30  
 **장소** : 미정  
-**주제** : Super Resolution with Deep Learning
+**주제** : Super Resolution with Deep Learning  
 **수업자료링크** : https://github.com/HanyangTechAI/CV_2020/tree/master/lab02_Super_Resolution_with_Deep_Learning
 ## 3회차
 **시간** : (2020.03.26) 19:00 - 20:30  
