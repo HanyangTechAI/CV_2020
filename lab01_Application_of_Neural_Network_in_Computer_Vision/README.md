@@ -4,7 +4,7 @@
 1. Introduction to ML
 ML에 대해 친숙해지는 시간을 가져보아요
 
-    <b> Colab Link: </b> [여기를 클릭하시오](https://colab.research.google.com/drive/17Gd0yEDcuXBateGPV9xVaktVadI5Xtoo)
+    <b> Colab Link: </b> [여기를 클릭하시오](https://colab.research.google.com/github/HanyangTechAI/CV_2020/blob/master/lab01_Application_of_Neural_Network_in_Computer_Vision/1.%20Introduction%20to%20ML.ipynb)
     
     
 2. MNIST CNN
